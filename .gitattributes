@@ -1,0 +1,6 @@
+# Forzar LF en todos los archivos de texto
+* text eol=lf
+
+# Excepciones binarias
+*.png binary
+*.jpg binary
